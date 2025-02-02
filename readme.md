@@ -1,11 +1,11 @@
-# 🚀 Project Name
+# 🚀 Research Project
 
 ## 📌 Overview
-Welcome to **Project Name**! This project is designed to [briefly describe the purpose of your project].
+Welcome! This project is designed to create a LLM for law cases.
 
 ## 📂 Setup Instructions
 ### 1️⃣ Download Resources
-🔗 **[Click here](YOUR_LINK_HERE) to download the required resource documents.**
+🔗 **[Click here](https://nibm-my.sharepoint.com/:f:/g/personal/comscds232p-007_student_nibm_lk/EgBWSemguZ9GlpdDFbeJP18BRg9CA2WOFEYu0lIanAbk4w?e=eetVFl) to download the required resource documents.**
 
 ### 2️⃣ Set Folder Path
 After downloading the resources, set the folder path inside the `eda.ipynb` file:
