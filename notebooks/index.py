@@ -34,4 +34,4 @@ if st.button("Get Answer", use_container_width=True):
     st.write(response)
 
 st.markdown("---")
-st.markdown("🛠️ *Powered by LLaMA 3.1, Neo4j, and Graph RAG*")
+st.markdown("🛠️ *Powered by LLaMA 3.1, NetworkX, and Graph RAG*")
