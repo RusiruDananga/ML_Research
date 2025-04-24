@@ -11,7 +11,7 @@ from langchain_ollama import OllamaLLM
 @st.cache_resource
 def load_data():
     qa_df = pd.read_csv("../data/processed/Questions & Answers.csv")
-    chunked_cases_df = pd.read_csv("chunked_law_cases.csv")
+    chunked_cases_df = pd.read_csv("src/chunked_law_cases.csv")
     return qa_df, chunked_cases_df
 
 qa_df, chunked_cases_df = load_data()
